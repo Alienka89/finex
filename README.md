@@ -58,22 +58,3 @@ Start your application by running:
 ```bash
 docker-compose up --build
 ```
-
-See your app in action: [http://localhost:8080](http://localhost:8080)
-
-Use `CTRL+C` to stop your app.
-
-## Changelog
-* `12.06.2019`: Added holdup script to wait till postgres is ready.
-
-## Contributing
-
-1. Fork it (<https://github.com/standart-ag/django-docker/fork>)
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
