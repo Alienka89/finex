@@ -1,5 +1,7 @@
 *__pycache__*
 .vscode
+.idea
 *app/*/migrations/*
 venv*
 flask-app*
+*app/static*
